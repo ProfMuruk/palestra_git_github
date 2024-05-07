@@ -2,4 +2,9 @@ alguma coisa
 
 mais alguma coisa
 
+<<<<<<< HEAD
 eu fiz uma alteração local
+=======
+
+colega de trabalho mandou alguma coisa
+>>>>>>> 4d4086074978f010617434f6ac211389f92454e7
